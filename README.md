@@ -66,4 +66,13 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE), permitiendo su l
 
 ---
 
-Repositorio en GitHub: [OsmanJimenez/Checkbox\_Neumorphism](https://github.com/OsmanJimenez/Checkbox_Neumorphism)
+Repositorio en GitHub: [OsmanJimenez/Checkbox\_Neumorphism](https://github.com/OsmanJimenez/Checkbox_Neumorphism) 
+
+## 👤 Autor
+
+**Osman Armando Jiménez Cortés**  
+[Portafolio profesional](https://osmanjimenez.com/)  
+[Perfil de GitHub](https://github.com/OsmanJimenez)
+
+Ingeniero de Sistemas y Desarrollador Full Stack especializado en desarrollo web y aplicaciones móviles.
+
